@@ -1,4 +1,7 @@
----
+
+***
+
+### Top
 
 # SNU Compiling and building
 
@@ -6,13 +9,55 @@
 
 This listing is incomplete. Please read the latest instructions to properly build your SNU Distro
 
----
-
 ***
 
 # Index
 
-Coming soon!
+[00.0 - Title](#SNU-Compiling-and-building)
+
+[01.0 - Index](#Index)
+
+[02.0 - Main info](#Main-info)
+
+[03.0 - Directory structure](#Directory-structure)
+
+[04.0 - Extracting modules](#Extracting-modules)
+
+[05.0 - Root modules](#SNU-Root-modules)
+
+[06.0 - Video modules](#Video)
+
+[07.0 - Image modules](#Image-modules)
+
+[08.0 - Audio modules](#Audio-modules)
+
+[09.0 - Programming modules](#Programming-modules)
+
+[10.0 - Book modules](#Book-modules)
+
+[11.0 - NSFW modules](#NSFW-modules)
+
+[12.0 - Restricted modules](#Restricted-modules)
+
+[13.0 - Software modules](#Software-modules)
+
+[14.0 - Other modules](#Other-modules) - include 3D printing, mapping, and VR
+
+[15.0 - SNU 0D mode modules](#SNU-0D-Modules)
+
+[16.0 - SNU 1D mode modules](#SNU-1D-Modules)
+
+[17.0 - SNU 2D mode modules](#SNU-2D-Modules)
+
+[18.0 - SNU 3D mode modules](#SNU-3D-Modules)
+
+[19.0 - SNU 4D mode modules](#SNU-4D-Modules)
+
+[20.0 - Gist version history](#Gist-version-history)
+
+[21.0 - Gist info](#Gist-info)
+
+[22.0 - Footer](#Footer)
 
 ***
 
@@ -25,6 +70,8 @@ I am uploading the entirety of SNU to GitHub except for files that are larger th
 SNU has been built to be a distribution. My plan for SNU is for it to be the Linux kernel of web development, as in there will be hundreds of distributions built off of it, and people can create their own flavors. Remixing SNU is 100% OK, as long as you give credit.
 
 I am also keeping a local version for the official master server.
+
+***
 
 ## Directory structure
 
@@ -64,7 +111,11 @@ These are the main root folders. For certain features, you would need this folde
 
 These are the main graphical modes. Placing dimensional modes as instructed should be done. Any repository that doesn't have the dimensional mode info in the name should be placed outside these 5 directories.
 
-Now it is time for the next step
+Also, for GitHub releases, there is a ProjectWiki directory for each module. This does not need to be copied.
+
+Now it is time for the next step...
+
+***
 
 ## Extracting modules
 
@@ -120,6 +171,91 @@ Section coming soon
 **Info**
 
 Section coming soon
+
+***
+
+# Image-modules
+
+For distributions that specialize in images, or other media types along with images, you are going to want to pick out some image modules.
+
+**List unavailable**
+
+***
+
+# Audio-modules
+
+For distributions that specialize in audio, or other media types along with audio, you are going to want to pick out some audio modules.
+
+**List unavailable**
+
+***
+
+# Programming-modules
+
+
+For distributions that specialize in computer programming, or other media types along with computer programming, you are going to want to pick out some programming modules.
+
+**List unavailable**
+
+***
+
+# Book-modules
+
+For distributions that specialize in books, blogs, other reading, and or other media types along with books, blogs, and other reading formats, you are going to want to pick out some reading format modules.
+
+**List unavailable**
+
+***
+
+# NSFW-modules
+
+For distributions that specialize in arousing material, or other media types along with arousing material, you are going to want to pick out some arousing modules.
+
+**Pornography**
+
+For pornography, you will want this module:
+
+[SNU 2D Porn](https://github.com/seanpm2001/SNU_2D_Porn/)
+
+**Notice:**
+
+This module is not legal in certain countries, such as Indonesia, Saudi Arabia, and some other countries. If you live in a country with an anti-sex law, you may get arrested for hosting this. Even if you don't live in one of these areas, you can still get your site blocked in these countries, so be absolutely sure you want your site to have this.
+
+**Erotica**
+
+For erotica, you will want this module:
+
+[SNU 2D Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/)
+
+**Notice:**
+
+This module is not legal in certain countries, such as Indonesia, Saudi Arabia, and some other countries. If you live in a country with an anti-sex law, you may get arrested for hosting this. Even if you don't live in one of these areas, you can still get your site blocked in these countries, so be absolutely sure you want your site to have this.
+
+***
+
+# Restricted-modules
+
+This is a list of modules that are not allowed in unverified distributions. It is against SNU terms to use these modules without verification by the creator.
+
+[SNU Committee](https://github.com/seanpm2001/SNU_Committee)
+
+***
+
+# Software-modules
+
+For distributions that specialize in software, or other media types along with software, you are going to want to pick out some software modules.
+
+**List unavailable**
+
+***
+
+# Other-modules 
+
+If you need other modules in your distribution, choose between one or more of these:
+
+**List unavailable**
+
+_Note: include 3D printing, mapping, and VR_
 
 ***
 
@@ -294,50 +430,126 @@ This section is coming soon
 
 These instructions are currently ***INCOMPLETE*** please use the most updated info to compile.
 
----
+***
 
 # Gist version history
 
 1. Version 1 (Wednesday, June 3rd 2020 at 10:36 pm)
+
 > Changes:
+
 > * Added the Title section
+
 > * Added the main info section
+
 > * Added the directory structure section
+
 > * Added the Extracting modules section
+
 > * Added the compiling section
+
 2. Version 2 (Wednesday, June 3rd 2020 at 10:49 pm)
+
 > Changes:
+
 > * Added the Gist version history section
+
 > * Updated the title section
+
 > * Updated the Gist info section
+
 > * Updated all instruction sections by adding in review info
+
 > * Updated the directory structure section to fix a formatting error
+
 3. Version 3 (Thursday, June 11th 2020 at 12:24 am)
+
 > Changes:
+
 > * Updated the change log
+
 > * Added info on SNU 3D Modules
+
 > * Added info on SNU 2D Modules
+
 > * Added info on SNU 1D Modules
+
 > * Added info on SNU 0D Modules
+
 > * Added info on SNU 4D Modules
+
 > * Added info on SNU Root modules
+
 > * Added info 
-4. Version 4 (Coming soon)
+
+4. Version 4 (Thursday, June 25th 2020 at 7:55 pm)
+
 > Changes:
-> * Coming soon!
+
+> * Updated the version history section with a new entry for this build, plus blank entries up to version 10.
+
+> * Fixed divider syntax
+
+> * Added an index
+
+> * Created separate sections for different media type modules
+
+> * Added a footer
+
+> * Updated the Gist info section
+
 5. Version 5 (Coming soon)
+
 > Changes:
+
 > * Coming soon!
+
 6. Version 6 (Coming soon)
+
 > Changes:
+
 > * Coming soon!
+
+7. Version 7 (Coming soon)
+
+> Changes:
+
+> * Coming soon!
+
+8. Version 8 (Coming soon)
+
+> Changes:
+
+> * Coming soon!
+
+9. Version 9 (Coming soon)
+
+> Changes:
+
+> * Coming soon!
+
+10. Version 10 (Coming soon)
+
+> Changes:
+
+> * Coming soon!
+
+***
 
 # Gist info
 
-Gist version: `3 (Thursday, June 11th 2020 at 12:24 am)`
+Gist version: `4 (Thursday, June 25th 2020 at 7:55 pm)`
 
 File type: `Markdown (*.md)`
 
-Line count: `0,344`
+Line count: `0,556`
 
----
+***
+
+# Footer
+
+You have reached the end of this document!
+
+( [Back to top](#Top) | [Back to GitHub](https://github.com) | [Back to GistHub](https://gist.github.com) )
+
+***
